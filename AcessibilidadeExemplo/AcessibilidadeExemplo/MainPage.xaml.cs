@@ -13,5 +13,7 @@ namespace AcessibilidadeExemplo
 		{
 			InitializeComponent();
 		}
+
+
 	}
 }
